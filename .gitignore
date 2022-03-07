@@ -1,0 +1,7 @@
+/.vscode
+/instances
+/tests/**
+
+.DS_STORE
+
+execGrupo1
